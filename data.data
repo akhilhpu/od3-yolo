@@ -1,0 +1,5 @@
+classes = 3
+train = data/images/train.txt
+valid = data/images/val.txt
+names = /content/gdrive/MyDrive/OD3YOLO/classes.names
+backup = /content/gdrive/MyDrive/OD3YOLO/backup
